@@ -1,3 +1,5 @@
+Primer proyecto con React.js utilizando flexbox, html, css 😇📝💻
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
