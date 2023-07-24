@@ -1,9 +1,6 @@
 # Primer proyecto con React.js
-## utilizando:
-## flexbox 
-## html
-## css 
-😇📝💻
+## Utilizando:
+## flexbox / html / css 😇📝💻
 
 ### Getting Started with Create React App
 
